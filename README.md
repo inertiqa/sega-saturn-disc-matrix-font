@@ -1,7 +1,5 @@
 # Sega Saturn Disc Matrix font (SSDM)
 
------
-
 If you ever have owned a japanese Sega Saturn game, some of the CDs came with a fancy code on the inner ring.
 
 ### Findings
